@@ -5,7 +5,7 @@
 https://rstudio-education.github.io/hopr/starting.html  
 
 # R Selenium Setup Instructions  
-[R selenium Setup](https://www.youtube.com/watch?v=GnpJujF9dBw)
+[R selenium Setup Tutorial Video](https://www.youtube.com/watch?v=GnpJujF9dBw)
 
 # HTML Helpful Links:  
 
