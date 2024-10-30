@@ -1,5 +1,5 @@
 # Run R through web browser with no installation required
-[Run R through web browser] (https://webr.r-wasm.org/latest/)
+[Run R through web browser](https://webr.r-wasm.org/latest/)
 
 # Install R and RStudio  
 https://rstudio-education.github.io/hopr/starting.html  
